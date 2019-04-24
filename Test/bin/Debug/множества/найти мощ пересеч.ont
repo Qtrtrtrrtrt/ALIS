@@ -1,0 +1,205 @@
+{
+    "last_id": "73",
+    "namespaces": {
+        "default": "http://knova.ru/user/1526795026770",
+        "ontolis-avis": "http://knova.ru/ontolis-avis",
+        "owl": "http://www.w3.org/2002/07/owl",
+        "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns",
+        "rdfs": "http://www.w3.org/2000/01/rdf-schema",
+        "xsd": "http://www.w3.org/2001/XMLSchema"
+    },
+    "nodes": [
+        {
+            "attributes": {
+            },
+            "id": "1",
+            "name": "Множество",
+            "namespace": "http://knova.ru/user/1526795026770",
+            "position_x": 675.88888888888926,
+            "position_y": 314.99999999999994
+        },
+        {
+            "attributes": {
+            },
+            "id": "4",
+            "name": "Набор множеств",
+            "namespace": "http://knova.ru/user/1526795026770",
+            "position_x": 432.2222222222224,
+            "position_y": 319.86111111111097
+        },
+        {
+            "attributes": {
+            },
+            "id": "42",
+            "name": "Пересечение",
+            "namespace": "http://knova.ru/user/1526795026770",
+            "position_x": 608.2222222222224,
+            "position_y": 389.16666666666663
+        },
+        {
+            "attributes": {
+            },
+            "id": "51",
+            "name": "Мощность множества",
+            "namespace": "http://knova.ru/user/1526795026770",
+            "position_x": 846.41666666666652,
+            "position_y": 399.44444444444429
+        },
+        {
+            "attributes": {
+            },
+            "id": "19",
+            "name": "Найти пересечение множеств",
+            "namespace": "http://knova.ru/user/1526795026770",
+            "position_x": 428.69444444444423,
+            "position_y": 532.08333333333314
+        },
+        {
+            "attributes": {
+            },
+            "id": "38",
+            "name": "задача",
+            "namespace": "http://knova.ru/user/1526795026770",
+            "position_x": 637.50000000000011,
+            "position_y": 450.75000000000017
+        },
+        {
+            "attributes": {
+            },
+            "id": "65",
+            "name": "Найти мощность множества",
+            "namespace": "http://knova.ru/user/1526795026770",
+            "position_x": 809.13888888888869,
+            "position_y": 523.52777777777771
+        },
+        {
+            "attributes": {
+            },
+            "id": "70",
+            "name": "Найти мощность пересечения",
+            "namespace": "http://knova.ru/user/1526795026770",
+            "position_x": 615.27777777777806,
+            "position_y": 531.25
+        }
+    ],
+    "relations": [
+        {
+            "attributes": {
+            },
+            "destination_node_id": "38",
+            "id": "39",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1526795026770",
+            "source_node_id": "19"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "51",
+            "id": "52",
+            "name": "method",
+            "namespace": "http://knova.ru/user/1526795026770",
+            "source_node_id": "1"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "42",
+            "id": "47",
+            "name": "method",
+            "namespace": "http://knova.ru/user/1526795026770",
+            "source_node_id": "4"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "51",
+            "id": "67",
+            "name": "output",
+            "namespace": "http://knova.ru/user/1526795026770",
+            "source_node_id": "65"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "1",
+            "id": "66",
+            "name": "input",
+            "namespace": "http://knova.ru/user/1526795026770",
+            "source_node_id": "65"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "42",
+            "id": "46",
+            "name": "output",
+            "namespace": "http://knova.ru/user/1526795026770",
+            "source_node_id": "19"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "38",
+            "id": "68",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1526795026770",
+            "source_node_id": "65"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "1",
+            "id": "5",
+            "name": "set_of",
+            "namespace": "http://knova.ru/user/1526795026770",
+            "source_node_id": "4"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "4",
+            "id": "20",
+            "name": "input",
+            "namespace": "http://knova.ru/user/1526795026770",
+            "source_node_id": "19"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "1",
+            "id": "69",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1526795026770",
+            "source_node_id": "42"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "4",
+            "id": "72",
+            "name": "input",
+            "namespace": "http://knova.ru/user/1526795026770",
+            "source_node_id": "70"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "51",
+            "id": "73",
+            "name": "output",
+            "namespace": "http://knova.ru/user/1526795026770",
+            "source_node_id": "70"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "38",
+            "id": "71",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1526795026770",
+            "source_node_id": "70"
+        }
+    ],
+    "visualize_ont_path": ""
+}

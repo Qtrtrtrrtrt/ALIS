@@ -1,0 +1,296 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6AF0CE88-17D3-4598-AEB6-31511812FC3F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Test</RootNamespace>
+    <AssemblyName>Test</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>if_132-woman-student-2_3099385.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Word, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="MySql.Data, Version=8.0.11.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AbstractExercise.cs" />
+    <Compile Include="AnswerResult.cs" />
+    <Compile Include="BinaryNumber.cs" />
+    <Compile Include="boolean function\BFType.cs" />
+    <Compile Include="boolean function\BooleanFunction.cs" />
+    <Compile Include="boolean function\FormulaBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="boolean function\FormulaBox.Designer.cs">
+      <DependentUpon>FormulaBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="boolean function\SetsTheory.cs" />
+    <Compile Include="ExerciseTemplate.cs" />
+    <Compile Include="ExerciseWithPaths.cs" />
+    <Compile Include="PathWithSA.cs" />
+    <Compile Include="Exerсise.cs" />
+    <Compile Include="forms\FormAddExercise.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\FormAddExercise.Designer.cs">
+      <DependentUpon>FormAddExercise.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\FormChooseOntology.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\FormChooseOntology.Designer.cs">
+      <DependentUpon>FormChooseOntology.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\FormChooseTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\FormChooseTest.Designer.cs">
+      <DependentUpon>FormChooseTest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\FormCreateTestTemplate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\FormCreateTestTemplate.Designer.cs">
+      <DependentUpon>FormCreateTestTemplate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\FormExamination.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\FormExamination.Designer.cs">
+      <DependentUpon>FormExamination.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\FormLinkMethodsToOntology.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\FormLinkMethodsToOntology.Designer.cs">
+      <DependentUpon>FormLinkMethodsToOntology.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\FormLinkPathsToOntology.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\FormLinkPathsToOntology.Designer.cs">
+      <DependentUpon>FormLinkPathsToOntology.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\FormLinkTypesToOntology.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\FormLinkTypesToOntology.Designer.cs">
+      <DependentUpon>FormLinkTypesToOntology.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\FormSolveExercise.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\FormSolveExercise.Designer.cs">
+      <DependentUpon>FormSolveExercise.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\FormUserAuth.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\FormUserAuth.Designer.cs">
+      <DependentUpon>FormUserAuth.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\FormUserRegistration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\FormUserRegistration.Designer.cs">
+      <DependentUpon>FormUserRegistration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\FormVariantsGeneration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\FormVariantsGeneration.Designer.cs">
+      <DependentUpon>FormVariantsGeneration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\FormWarchExercise.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\FormWarchExercise.Designer.cs">
+      <DependentUpon>FormWarchExercise.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\FormWatchVariants.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\FormWatchVariants.Designer.cs">
+      <DependentUpon>FormWatchVariants.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\StudentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\StudentForm.Designer.cs">
+      <DependentUpon>StudentForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="boolean function\NormalForm.cs" />
+    <Compile Include="boolean function\MethodsLibrary.cs" />
+    <Compile Include="Formula.cs" />
+    <Compile Include="Ontology.cs" />
+    <Compile Include="PathWithStructs.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="boolean function\ZhegalkinPolynomial.cs" />
+    <Compile Include="StudentResults.cs" />
+    <Compile Include="StudentsWeakPoint.cs" />
+    <Compile Include="TestingService.cs" />
+    <Compile Include="TestTemplate.cs" />
+    <Compile Include="TrainingService.cs" />
+    <Compile Include="Variant.cs" />
+    <Compile Include="WorkingWithTestsService.cs" />
+    <EmbeddedResource Include="boolean function\FormulaBox.resx">
+      <DependentUpon>FormulaBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\FormAddExercise.resx">
+      <DependentUpon>FormAddExercise.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\FormChooseOntology.resx">
+      <DependentUpon>FormChooseOntology.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\FormChooseTest.resx">
+      <DependentUpon>FormChooseTest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\FormCreateTestTemplate.resx">
+      <DependentUpon>FormCreateTestTemplate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\FormExamination.resx">
+      <DependentUpon>FormExamination.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\FormLinkMethodsToOntology.resx">
+      <DependentUpon>FormLinkMethodsToOntology.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\FormLinkPathsToOntology.resx">
+      <DependentUpon>FormLinkPathsToOntology.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\FormLinkTypesToOntology.resx">
+      <DependentUpon>FormLinkTypesToOntology.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\FormSolveExercise.resx">
+      <DependentUpon>FormSolveExercise.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\FormUserAuth.resx">
+      <DependentUpon>FormUserAuth.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\FormUserRegistration.resx">
+      <DependentUpon>FormUserRegistration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\FormVariantsGeneration.resx">
+      <DependentUpon>FormVariantsGeneration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\FormWarchExercise.resx">
+      <DependentUpon>FormWarchExercise.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\FormWatchVariants.resx">
+      <DependentUpon>FormWatchVariants.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\StudentForm.resx">
+      <DependentUpon>StudentForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="if_132-woman-student-2_3099385.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Word1">
+      <Guid>{00020905-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>8</VersionMajor>
+      <VersionMinor>7</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

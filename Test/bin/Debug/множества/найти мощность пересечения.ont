@@ -1,0 +1,124 @@
+{
+    "last_id": "64",
+    "namespaces": {
+        "default": "http://knova.ru/user/1526795026770",
+        "ontolis-avis": "http://knova.ru/ontolis-avis",
+        "owl": "http://www.w3.org/2002/07/owl",
+        "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns",
+        "rdfs": "http://www.w3.org/2000/01/rdf-schema",
+        "xsd": "http://www.w3.org/2001/XMLSchema"
+    },
+    "nodes": [
+        {
+            "attributes": {
+            },
+            "id": "1",
+            "name": "Множество",
+            "namespace": "http://knova.ru/user/1526795026770",
+            "position_x": 281,
+            "position_y": 491
+        },
+        {
+            "attributes": {
+            },
+            "id": "53",
+            "name": "Найти мощность пересечения множеств",
+            "namespace": "http://knova.ru/user/1526795026770",
+            "position_x": 272,
+            "position_y": 386
+        },
+        {
+            "attributes": {
+            },
+            "id": "4",
+            "name": "Набор множеств",
+            "namespace": "http://knova.ru/user/1526795026770",
+            "position_x": 90,
+            "position_y": 452
+        },
+        {
+            "attributes": {
+            },
+            "id": "42",
+            "name": "Пересечение",
+            "namespace": "http://knova.ru/user/1526795026770",
+            "position_x": 230,
+            "position_y": 568
+        },
+        {
+            "attributes": {
+            },
+            "id": "51",
+            "name": "Мощность множества",
+            "namespace": "http://knova.ru/user/1526795026770",
+            "position_x": 438,
+            "position_y": 449
+        },
+        {
+            "attributes": {
+            },
+            "id": "38",
+            "name": "задача",
+            "namespace": "http://knova.ru/user/1526795026770",
+            "position_x": 208,
+            "position_y": 325
+        }
+    ],
+    "relations": [
+        {
+            "attributes": {
+            },
+            "destination_node_id": "51",
+            "id": "52",
+            "name": "method",
+            "namespace": "http://knova.ru/user/1526795026770",
+            "source_node_id": "1"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "42",
+            "id": "47",
+            "name": "method",
+            "namespace": "http://knova.ru/user/1526795026770",
+            "source_node_id": "4"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "51",
+            "id": "55",
+            "name": "output",
+            "namespace": "http://knova.ru/user/1526795026770",
+            "source_node_id": "53"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "1",
+            "id": "44",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1526795026770",
+            "source_node_id": "42"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "38",
+            "id": "54",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1526795026770",
+            "source_node_id": "53"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "4",
+            "id": "56",
+            "name": "input",
+            "namespace": "http://knova.ru/user/1526795026770",
+            "source_node_id": "53"
+        }
+    ],
+    "visualize_ont_path": ""
+}

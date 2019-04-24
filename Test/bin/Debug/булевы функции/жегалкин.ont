@@ -1,0 +1,151 @@
+{
+    "last_id": "296",
+    "namespaces": {
+        "default": "http://knova.ru/user/1457692576474",
+        "ontolis-avis": "http://knova.ru/ontolis-avis",
+        "owl": "http://www.w3.org/2002/07/owl",
+        "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns",
+        "rdfs": "http://www.w3.org/2000/01/rdf-schema",
+        "xsd": "http://www.w3.org/2001/XMLSchema"
+    },
+    "nodes": [
+        {
+            "attributes": {
+            },
+            "id": "78",
+            "name": "вектор функции",
+            "namespace": "http://knova.ru/user/1457692576474",
+            "position_x": 470.40688008686749,
+            "position_y": 1163.8286965427872
+        },
+        {
+            "attributes": {
+            },
+            "id": "17",
+            "name": "формула",
+            "namespace": "http://knova.ru/user/1457692576474",
+            "position_x": 826.16666666666663,
+            "position_y": 1092.9884899976992
+        },
+        {
+            "attributes": {
+            },
+            "id": "23",
+            "name": "полином Жегалкина",
+            "namespace": "http://knova.ru/user/1457692576474",
+            "position_x": 777.48856180266444,
+            "position_y": 1160.933173744218
+        },
+        {
+            "attributes": {
+            },
+            "id": "152",
+            "name": "коэффициенты полинома Жегалкина",
+            "namespace": "http://knova.ru/user/1457692576474",
+            "position_x": 615.92194494594037,
+            "position_y": 1229.2434895833335
+        },
+        {
+            "attributes": {
+            },
+            "id": "141",
+            "name": "Построить полином Жегалкина",
+            "namespace": "http://knova.ru/user/1457692576474",
+            "position_x": 591.19277827927363,
+            "position_y": 1100.48828125
+        },
+        {
+            "attributes": {
+            },
+            "id": "130",
+            "name": "задача",
+            "namespace": "http://knova.ru/user/1457692576474",
+            "position_x": 586.62506994594037,
+            "position_y": 1051.6770833333333
+        },
+        {
+            "attributes": {
+            },
+            "id": "294",
+            "name": "способ представления",
+            "namespace": "http://knova.ru/user/1457692576474",
+            "position_x": 577,
+            "position_y": 993.83333333333326
+        }
+    ],
+    "relations": [
+        {
+            "attributes": {
+            },
+            "destination_node_id": "78",
+            "id": "194",
+            "name": "input",
+            "namespace": "http://knova.ru/user/1457692576474",
+            "source_node_id": "141"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "152",
+            "id": "224",
+            "name": "method",
+            "namespace": "http://knova.ru/user/1457692576474",
+            "source_node_id": "78"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "23",
+            "id": "223",
+            "name": "method",
+            "namespace": "http://knova.ru/user/1457692576474",
+            "source_node_id": "152"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "23",
+            "id": "142",
+            "name": "output",
+            "namespace": "http://knova.ru/user/1457692576474",
+            "source_node_id": "141"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "130",
+            "id": "143",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1457692576474",
+            "source_node_id": "141"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "17",
+            "id": "293",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1457692576474",
+            "source_node_id": "23"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "294",
+            "id": "296",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1457692576474",
+            "source_node_id": "78"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "294",
+            "id": "295",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1457692576474",
+            "source_node_id": "17"
+        }
+    ],
+    "visualize_ont_path": ""
+}

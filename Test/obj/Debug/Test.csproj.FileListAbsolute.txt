@@ -1,0 +1,175 @@
+C:\Users\Валерия\Documents\Универ\_Курсач-Диплом\Test\Test\bin\Debug\Test.exe.config
+C:\Users\Валерия\Documents\Универ\_Курсач-Диплом\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Валерия\Documents\Универ\_Курсач-Диплом\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Валерия\Documents\Универ\_Курсач-Диплом\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+C:\Users\Валерия\Documents\Универ\_Курсач-Диплом\Test\Test\bin\Debug\Test.exe
+C:\Users\Валерия\Documents\Универ\_Курсач-Диплом\Test\Test\bin\Debug\Test.pdb
+C:\Users\Валерия\Documents\Универ\_Курсач-Диплом\Test\Test\obj\Debug\Test.exe
+C:\Users\Валерия\Documents\Универ\_Курсач-Диплом\Test\Test\obj\Debug\Test.pdb
+C:\Users\Валерия\Documents\Универ\_Курсач-Диплом\Test\Test\obj\Debug\Test.MainForm.resources
+C:\Users\Валерия\Documents\Универ\_Курсач-Диплом\Test\Test\obj\Debug\Test.FormFunctionProperties.resources
+C:\Users\Валерия\Documents\Универ\_Курсач-Диплом\Test\Test\obj\Debug\Test.FormWarchExercise.resources
+C:\Users\Валерия\Documents\Универ\_Курсач-Диплом\Test\Test\obj\Debug\Test.FormSystemProperties.resources
+C:\Users\Валерия\Documents\Универ\_Курсач-Диплом\Test\Test\obj\Debug\Test.forms.FormLinkMethodsToOntology.resources
+C:\Users\Валерия\Documents\Универ\_Курсач-Диплом\Test\Test\obj\Debug\Test.forms.FormAddExercise.resources
+C:\Users\Валерия\Documents\Универ\_Курсач-Диплом\Test\Test\obj\Debug\Test.FormBuildExpression.resources
+C:\Users\Валерия\Documents\Универ\_Курсач-Диплом\Test\Test\obj\Debug\Test.forms.FormLinkTypesToOntology.resources
+C:\Users\Валерия\Documents\Универ\Test\Test\bin\Debug\Test.exe.config
+C:\Users\Валерия\Documents\Универ\Test\Test\obj\Debug\Test.exe
+C:\Users\Валерия\Documents\Универ\Test\Test\obj\Debug\Test.pdb
+C:\Users\Валерия\Documents\Универ\Test\Test\bin\Debug\Test.exe
+C:\Users\Валерия\Documents\Универ\Test\Test\bin\Debug\Test.pdb
+C:\Users\Валерия\Documents\Универ\Test\Test\obj\Debug\Test.forms.FormAddExercise.resources
+C:\Users\Валерия\Documents\Универ\Test\Test\obj\Debug\Test.FormBuildExpression.resources
+C:\Users\Валерия\Documents\Универ\Test\Test\obj\Debug\Test.FormFunctionProperties.resources
+C:\Users\Валерия\Documents\Универ\Test\Test\obj\Debug\Test.forms.FormLinkMethodsToOntology.resources
+C:\Users\Валерия\Documents\Универ\Test\Test\obj\Debug\Test.forms.FormLinkTypesToOntology.resources
+C:\Users\Валерия\Documents\Универ\Test\Test\obj\Debug\Test.FormSystemProperties.resources
+C:\Users\Валерия\Documents\Универ\Test\Test\obj\Debug\Test.FormWarchExercise.resources
+C:\Users\Валерия\Documents\Универ\Test\Test\obj\Debug\Test.MainForm.resources
+C:\Users\Валерия\Documents\Универ\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Валерия\Documents\Универ\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+C:\Users\Валерия\Documents\Универ\Test\Test\obj\Debug\Test.forms.FormExamination.resources
+C:\Users\Валерия\Documents\Универ\Test\Test\obj\Debug\Test.forms.FormUserRegistration.resources
+C:\Users\Валерия\Documents\Универ\Test\Test\obj\Debug\Test.forms.FormUserAuth.resources
+C:\Users\Валерия\Documents\Универ\Test\Test\obj\Debug\Test.StudentForm.resources
+C:\Users\Валерия\Documents\Универ\Test\Test\obj\Debug\Test.boolean_function.FormulaBox.resources
+C:\Users\Валерия\Documents\Универ\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Валерия\Documents\Универ\Test\Test\obj\Debug\Test.forms.FormSolveExercise.resources
+C:\Users\Lera\Documents\Универ\Test\Test\obj\Debug\Test.boolean_function.FormulaBox.resources
+C:\Users\Lera\Documents\Универ\Test\Test\obj\Debug\Test.forms.FormAddExercise.resources
+C:\Users\Lera\Documents\Универ\Test\Test\obj\Debug\Test.FormBuildExpression.resources
+C:\Users\Lera\Documents\Универ\Test\Test\obj\Debug\Test.forms.FormExamination.resources
+C:\Users\Lera\Documents\Универ\Test\Test\obj\Debug\Test.FormFunctionProperties.resources
+C:\Users\Lera\Documents\Универ\Test\Test\obj\Debug\Test.forms.FormLinkMethodsToOntology.resources
+C:\Users\Lera\Documents\Универ\Test\Test\obj\Debug\Test.forms.FormLinkTypesToOntology.resources
+C:\Users\Lera\Documents\Универ\Test\Test\obj\Debug\Test.forms.FormSolveExercise.resources
+C:\Users\Lera\Documents\Универ\Test\Test\obj\Debug\Test.FormSystemProperties.resources
+C:\Users\Lera\Documents\Универ\Test\Test\obj\Debug\Test.forms.FormUserAuth.resources
+C:\Users\Lera\Documents\Универ\Test\Test\obj\Debug\Test.forms.FormUserRegistration.resources
+C:\Users\Lera\Documents\Универ\Test\Test\obj\Debug\Test.FormWarchExercise.resources
+C:\Users\Lera\Documents\Универ\Test\Test\obj\Debug\Test.StudentForm.resources
+C:\Users\Lera\Documents\Универ\Test\Test\obj\Debug\Test.MainForm.resources
+C:\Users\Lera\Documents\Универ\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Lera\Documents\Универ\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+C:\Users\Lera\Documents\Универ\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Lera\Documents\Универ\Test\Test\obj\Debug\Test.exe
+C:\Users\Lera\Documents\Универ\Test\Test\obj\Debug\Test.pdb
+C:\Users\Lera\Documents\Универ\Test\Test\bin\Debug\Test.exe.config
+C:\Users\Lera\Documents\Универ\Test\Test\bin\Debug\Test.exe
+C:\Users\Lera\Documents\Универ\Test\Test\bin\Debug\Test.pdb
+C:\Users\Lera\Documents\Универ\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Lera\Documents\Универ\Test\Test\bin\Debug\MySql.Data.dll
+C:\Users\Lera\Documents\Универ\Test\Test\bin\Debug\Google.Protobuf.dll
+C:\Users\Lera\Documents\Универ\Test\Test\bin\Debug\MySql.Data.xml
+C:\Users\Lera\Documents\Универ\Test\Test\obj\Debug\Test.forms.FormChooseTest.resources
+C:\Users\Lera\Documents\Универ\Test\Test\obj\Debug\Test.csproj.ResolveComReference.cache
+D:\imp\u\3 курс\Курсовая\Test-master\Test\bin\Debug\Test.exe.config
+D:\imp\u\3 курс\Курсовая\Test-master\Test\obj\Debug\Test.csproj.ResolveComReference.cache
+D:\imp\u\3 курс\Курсовая\Test-master\Test\obj\Debug\Test.exe
+D:\imp\u\3 курс\Курсовая\Test-master\Test\obj\Debug\Test.pdb
+D:\imp\u\3 курс\Курсовая\Test-master\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\imp\u\3 курс\Курсовая\Test-master\Test\obj\Debug\Test.boolean_function.FormulaBox.resources
+D:\imp\u\3 курс\Курсовая\Test-master\Test\obj\Debug\Test.forms.FormAddExercise.resources
+D:\imp\u\3 курс\Курсовая\Test-master\Test\obj\Debug\Test.FormBuildExpression.resources
+D:\imp\u\3 курс\Курсовая\Test-master\Test\obj\Debug\Test.forms.FormChooseTest.resources
+D:\imp\u\3 курс\Курсовая\Test-master\Test\obj\Debug\Test.forms.FormExamination.resources
+D:\imp\u\3 курс\Курсовая\Test-master\Test\obj\Debug\Test.FormFunctionProperties.resources
+D:\imp\u\3 курс\Курсовая\Test-master\Test\obj\Debug\Test.forms.FormLinkMethodsToOntology.resources
+D:\imp\u\3 курс\Курсовая\Test-master\Test\obj\Debug\Test.forms.FormLinkTypesToOntology.resources
+D:\imp\u\3 курс\Курсовая\Test-master\Test\obj\Debug\Test.forms.FormSolveExercise.resources
+D:\imp\u\3 курс\Курсовая\Test-master\Test\obj\Debug\Test.FormSystemProperties.resources
+D:\imp\u\3 курс\Курсовая\Test-master\Test\obj\Debug\Test.forms.FormUserAuth.resources
+D:\imp\u\3 курс\Курсовая\Test-master\Test\obj\Debug\Test.forms.FormUserRegistration.resources
+D:\imp\u\3 курс\Курсовая\Test-master\Test\obj\Debug\Test.FormWarchExercise.resources
+D:\imp\u\3 курс\Курсовая\Test-master\Test\obj\Debug\Test.StudentForm.resources
+D:\imp\u\3 курс\Курсовая\Test-master\Test\obj\Debug\Test.MainForm.resources
+D:\imp\u\3 курс\Курсовая\Test-master\Test\obj\Debug\Test.Properties.Resources.resources
+D:\imp\u\3 курс\Курсовая\Test-master\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+D:\imp\u\3 курс\Курсовая\Test-master\Test\bin\Debug\Test.exe
+D:\imp\u\3 курс\Курсовая\Test-master\Test\bin\Debug\Test.pdb
+D:\imp\u\3 курс\Курсовая\Test-master\Test\bin\Debug\Google.Protobuf.dll
+D:\imp\u\3 курс\Курсовая\Test-master\Test\bin\Debug\MySql.Data.xml
+D:\imp\u\3 курс\Курсовая\Test-master —copy\Test\bin\Debug\Test.exe.config
+D:\imp\u\3 курс\Курсовая\Test-master —copy\Test\obj\Debug\Test.csproj.ResolveComReference.cache
+D:\imp\u\3 курс\Курсовая\Test-master —copy\Test\obj\Debug\Test.exe
+D:\imp\u\3 курс\Курсовая\Test-master —copy\Test\obj\Debug\Test.pdb
+D:\imp\u\3 курс\Курсовая\Test-master —copy\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\imp\u\3 курс\Курсовая\Test-master —copy\Test\obj\Debug\Test.boolean_function.FormulaBox.resources
+D:\imp\u\3 курс\Курсовая\Test-master —copy\Test\obj\Debug\Test.forms.FormAddExercise.resources
+D:\imp\u\3 курс\Курсовая\Test-master —copy\Test\obj\Debug\Test.FormBuildExpression.resources
+D:\imp\u\3 курс\Курсовая\Test-master —copy\Test\obj\Debug\Test.forms.FormChooseTest.resources
+D:\imp\u\3 курс\Курсовая\Test-master —copy\Test\obj\Debug\Test.forms.FormExamination.resources
+D:\imp\u\3 курс\Курсовая\Test-master —copy\Test\obj\Debug\Test.FormFunctionProperties.resources
+D:\imp\u\3 курс\Курсовая\Test-master —copy\Test\obj\Debug\Test.forms.FormLinkMethodsToOntology.resources
+D:\imp\u\3 курс\Курсовая\Test-master —copy\Test\obj\Debug\Test.forms.FormLinkTypesToOntology.resources
+D:\imp\u\3 курс\Курсовая\Test-master —copy\Test\obj\Debug\Test.forms.FormSolveExercise.resources
+D:\imp\u\3 курс\Курсовая\Test-master —copy\Test\obj\Debug\Test.FormSystemProperties.resources
+D:\imp\u\3 курс\Курсовая\Test-master —copy\Test\obj\Debug\Test.forms.FormUserAuth.resources
+D:\imp\u\3 курс\Курсовая\Test-master —copy\Test\obj\Debug\Test.forms.FormUserRegistration.resources
+D:\imp\u\3 курс\Курсовая\Test-master —copy\Test\obj\Debug\Test.FormWarchExercise.resources
+D:\imp\u\3 курс\Курсовая\Test-master —copy\Test\obj\Debug\Test.StudentForm.resources
+D:\imp\u\3 курс\Курсовая\Test-master —copy\Test\obj\Debug\Test.MainForm.resources
+D:\imp\u\3 курс\Курсовая\Test-master —copy\Test\obj\Debug\Test.Properties.Resources.resources
+D:\imp\u\3 курс\Курсовая\Test-master —copy\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+D:\imp\u\3 курс\Курсовая\Test-master —copy\Test\bin\Debug\Test.exe
+D:\imp\u\3 курс\Курсовая\Test-master —copy\Test\bin\Debug\Test.pdb
+D:\imp\u\3 курс\Курсовая\Test-master —copy\Test\bin\Debug\Google.Protobuf.dll
+D:\imp\u\3 курс\Курсовая\Test-master —copy\Test\bin\Debug\MySql.Data.xml
+D:\imp\u\3 курс\Курсовая\Test-master —copy\Test\obj\Debug\Test.forms.FormCreateTestTemplate.resources
+D:\imp\u\3 курс\Курсовая\Test-master edited\Test\bin\Debug\Test.exe.config
+D:\imp\u\3 курс\Курсовая\Test-master edited\Test\obj\Debug\Test.csproj.ResolveComReference.cache
+D:\imp\u\3 курс\Курсовая\Test-master edited\Test\obj\Debug\Test.exe
+D:\imp\u\3 курс\Курсовая\Test-master edited\Test\obj\Debug\Test.pdb
+D:\imp\u\3 курс\Курсовая\Test-master edited\Test\bin\Debug\Test.exe
+D:\imp\u\3 курс\Курсовая\Test-master edited\Test\bin\Debug\Test.pdb
+D:\imp\u\3 курс\Курсовая\Test-master edited\Test\bin\Debug\Google.Protobuf.dll
+D:\imp\u\3 курс\Курсовая\Test-master edited\Test\bin\Debug\MySql.Data.xml
+D:\imp\u\3 курс\Курсовая\Test-master edited\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\imp\u\3 курс\Курсовая\Test-master edited\Test\obj\Debug\Test.Properties.Resources.resources
+D:\imp\u\3 курс\Курсовая\Test-master edited\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+D:\imp\u\3 курс\Курсовая\Test-master edited\Test\obj\Debug\Test.boolean_function.FormulaBox.resources
+D:\imp\u\3 курс\Курсовая\Test-master edited\Test\obj\Debug\Test.forms.FormAddExercise.resources
+D:\imp\u\3 курс\Курсовая\Test-master edited\Test\obj\Debug\Test.forms.FormChooseOntology.resources
+D:\imp\u\3 курс\Курсовая\Test-master edited\Test\obj\Debug\Test.forms.FormChooseTest.resources
+D:\imp\u\3 курс\Курсовая\Test-master edited\Test\obj\Debug\Test.forms.FormCreateTestTemplate.resources
+D:\imp\u\3 курс\Курсовая\Test-master edited\Test\obj\Debug\Test.forms.FormExamination.resources
+D:\imp\u\3 курс\Курсовая\Test-master edited\Test\obj\Debug\Test.forms.FormLinkMethodsToOntology.resources
+D:\imp\u\3 курс\Курсовая\Test-master edited\Test\obj\Debug\Test.forms.FormLinkPathsToOntology.resources
+D:\imp\u\3 курс\Курсовая\Test-master edited\Test\obj\Debug\Test.forms.FormLinkTypesToOntology.resources
+D:\imp\u\3 курс\Курсовая\Test-master edited\Test\obj\Debug\Test.forms.FormSolveExercise.resources
+D:\imp\u\3 курс\Курсовая\Test-master edited\Test\obj\Debug\Test.forms.FormUserAuth.resources
+D:\imp\u\3 курс\Курсовая\Test-master edited\Test\obj\Debug\Test.forms.FormUserRegistration.resources
+D:\imp\u\3 курс\Курсовая\Test-master edited\Test\obj\Debug\Test.forms.FormVariantsGeneration.resources
+D:\imp\u\3 курс\Курсовая\Test-master edited\Test\obj\Debug\Test.FormWarchExercise.resources
+D:\imp\u\3 курс\Курсовая\Test-master edited\Test\obj\Debug\Test.forms.FormWatchVariants.resources
+D:\imp\u\3 курс\Курсовая\Test-master edited\Test\obj\Debug\Test.StudentForm.resources
+D:\imp\u\3 курс\Курсовая\Test-master edited\Test\obj\Debug\Test.MainForm.resources
+D:\imp\u\3 курс\Курсовая\ALIS\Test\bin\Debug\Test.exe.config
+D:\imp\u\3 курс\Курсовая\ALIS\Test\obj\Debug\Test.csproj.ResolveComReference.cache
+D:\imp\u\3 курс\Курсовая\ALIS\Test\obj\Debug\Test.exe
+D:\imp\u\3 курс\Курсовая\ALIS\Test\obj\Debug\Test.pdb
+D:\imp\u\3 курс\Курсовая\ALIS\Test\bin\Debug\Test.exe
+D:\imp\u\3 курс\Курсовая\ALIS\Test\bin\Debug\Test.pdb
+D:\imp\u\3 курс\Курсовая\ALIS\Test\bin\Debug\Google.Protobuf.dll
+D:\imp\u\3 курс\Курсовая\ALIS\Test\bin\Debug\MySql.Data.xml
+D:\imp\u\3 курс\Курсовая\ALIS\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\imp\u\3 курс\Курсовая\ALIS\Test\obj\Debug\Test.boolean_function.FormulaBox.resources
+D:\imp\u\3 курс\Курсовая\ALIS\Test\obj\Debug\Test.forms.FormAddExercise.resources
+D:\imp\u\3 курс\Курсовая\ALIS\Test\obj\Debug\Test.forms.FormChooseOntology.resources
+D:\imp\u\3 курс\Курсовая\ALIS\Test\obj\Debug\Test.forms.FormChooseTest.resources
+D:\imp\u\3 курс\Курсовая\ALIS\Test\obj\Debug\Test.forms.FormCreateTestTemplate.resources
+D:\imp\u\3 курс\Курсовая\ALIS\Test\obj\Debug\Test.forms.FormExamination.resources
+D:\imp\u\3 курс\Курсовая\ALIS\Test\obj\Debug\Test.forms.FormLinkMethodsToOntology.resources
+D:\imp\u\3 курс\Курсовая\ALIS\Test\obj\Debug\Test.forms.FormLinkPathsToOntology.resources
+D:\imp\u\3 курс\Курсовая\ALIS\Test\obj\Debug\Test.forms.FormLinkTypesToOntology.resources
+D:\imp\u\3 курс\Курсовая\ALIS\Test\obj\Debug\Test.forms.FormSolveExercise.resources
+D:\imp\u\3 курс\Курсовая\ALIS\Test\obj\Debug\Test.forms.FormUserAuth.resources
+D:\imp\u\3 курс\Курсовая\ALIS\Test\obj\Debug\Test.forms.FormUserRegistration.resources
+D:\imp\u\3 курс\Курсовая\ALIS\Test\obj\Debug\Test.forms.FormVariantsGeneration.resources
+D:\imp\u\3 курс\Курсовая\ALIS\Test\obj\Debug\Test.FormWarchExercise.resources
+D:\imp\u\3 курс\Курсовая\ALIS\Test\obj\Debug\Test.forms.FormWatchVariants.resources
+D:\imp\u\3 курс\Курсовая\ALIS\Test\obj\Debug\Test.StudentForm.resources
+D:\imp\u\3 курс\Курсовая\ALIS\Test\obj\Debug\Test.MainForm.resources
+D:\imp\u\3 курс\Курсовая\ALIS\Test\obj\Debug\Test.Properties.Resources.resources
+D:\imp\u\3 курс\Курсовая\ALIS\Test\obj\Debug\Test.csproj.GenerateResource.Cache

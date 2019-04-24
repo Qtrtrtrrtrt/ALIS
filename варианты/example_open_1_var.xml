@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<ArrayOfVariant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Variant>
+    <Exercises>
+      <Exercise>
+        <Type>Найти мощность объединения</Type>
+        <Text>Найти мощность объединения {0; 11; 12; 20},  {1; 2; 3; 10; 17}.
+</Text>
+        <Answers>
+          <string>9</string>
+        </Answers>
+        <RightAnswer>9</RightAnswer>
+      </Exercise>
+    </Exercises>
+    <Number>1</Number>
+    <TestName>example_open</TestName>
+    <WithOpenAnswer>true</WithOpenAnswer>
+  </Variant>
+  <Variant>
+    <Exercises>
+      <Exercise>
+        <Type>Найти мощность объединения</Type>
+        <Text>Найти мощность объединения {13; 14; 20},  {8; 10; 12}.
+</Text>
+        <Answers>
+          <string>6</string>
+        </Answers>
+        <RightAnswer>6</RightAnswer>
+      </Exercise>
+    </Exercises>
+    <Number>2</Number>
+    <TestName>example_open</TestName>
+    <WithOpenAnswer>true</WithOpenAnswer>
+  </Variant>
+  <Variant>
+    <Exercises>
+      <Exercise>
+        <Type>Найти мощность объединения</Type>
+        <Text>Найти мощность объединения {2; 3; 4; 5; 8; 10; 12; 13; 14},  {5; 6; 19; 20}.
+</Text>
+        <Answers>
+          <string>12</string>
+        </Answers>
+        <RightAnswer>12</RightAnswer>
+      </Exercise>
+    </Exercises>
+    <Number>3</Number>
+    <TestName>example_open</TestName>
+    <WithOpenAnswer>true</WithOpenAnswer>
+  </Variant>
+  <Variant>
+    <Exercises>
+      <Exercise>
+        <Type>Найти мощность объединения</Type>
+        <Text>Найти мощность объединения {1; 2; 4; 9; 12; 13},  {1; 4; 5; 9; 14; 16; 17; 18; 19}.
+</Text>
+        <Answers>
+          <string>12</string>
+        </Answers>
+        <RightAnswer>12</RightAnswer>
+      </Exercise>
+    </Exercises>
+    <Number>4</Number>
+    <TestName>example_open</TestName>
+    <WithOpenAnswer>true</WithOpenAnswer>
+  </Variant>
+  <Variant>
+    <Exercises>
+      <Exercise>
+        <Type>Найти мощность объединения</Type>
+        <Text>Найти мощность объединения {0; 4; 18; 19},  {4; 5; 9; 14; 15; 16; 18}.
+</Text>
+        <Answers>
+          <string>9</string>
+        </Answers>
+        <RightAnswer>9</RightAnswer>
+      </Exercise>
+    </Exercises>
+    <Number>5</Number>
+    <TestName>example_open</TestName>
+    <WithOpenAnswer>true</WithOpenAnswer>
+  </Variant>
+</ArrayOfVariant>

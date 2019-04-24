@@ -1,0 +1,15 @@
+C:\Users\Валерия\Documents\Универ\_Курсач-Диплом\Test\Test\bin\Release\Test.exe.config
+C:\Users\Валерия\Documents\Универ\_Курсач-Диплом\Test\Test\bin\Release\Test.exe
+C:\Users\Валерия\Documents\Универ\_Курсач-Диплом\Test\Test\bin\Release\Test.pdb
+C:\Users\Валерия\Documents\Универ\_Курсач-Диплом\Test\Test\obj\Release\Test.forms.FormAddExercise.resources
+C:\Users\Валерия\Documents\Универ\_Курсач-Диплом\Test\Test\obj\Release\Test.FormBuildExpression.resources
+C:\Users\Валерия\Documents\Универ\_Курсач-Диплом\Test\Test\obj\Release\Test.FormFunctionProperties.resources
+C:\Users\Валерия\Documents\Универ\_Курсач-Диплом\Test\Test\obj\Release\Test.forms.FormLinkMethodsToOntology.resources
+C:\Users\Валерия\Documents\Универ\_Курсач-Диплом\Test\Test\obj\Release\Test.forms.FormLinkTypesToOntology.resources
+C:\Users\Валерия\Documents\Универ\_Курсач-Диплом\Test\Test\obj\Release\Test.FormSystemProperties.resources
+C:\Users\Валерия\Documents\Универ\_Курсач-Диплом\Test\Test\obj\Release\Test.FormWarchExercise.resources
+C:\Users\Валерия\Documents\Универ\_Курсач-Диплом\Test\Test\obj\Release\Test.MainForm.resources
+C:\Users\Валерия\Documents\Универ\_Курсач-Диплом\Test\Test\obj\Release\Test.Properties.Resources.resources
+C:\Users\Валерия\Documents\Универ\_Курсач-Диплом\Test\Test\obj\Release\Test.csproj.GenerateResource.Cache
+C:\Users\Валерия\Documents\Универ\_Курсач-Диплом\Test\Test\obj\Release\Test.exe
+C:\Users\Валерия\Documents\Универ\_Курсач-Диплом\Test\Test\obj\Release\Test.pdb

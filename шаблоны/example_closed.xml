@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<TestTemplate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <WithOpenAnswers>false</WithOpenAnswers>
+  <Name>example_closed</Name>
+  <ExercisesT>
+    <item>
+      <key>
+        <ExerciseTemplate>
+          <Type>Найти мощность объединения</Type>
+          <ExParams>
+            <anyType xsi:type="xsd:int">2</anyType>
+          </ExParams>
+          <Path>
+            <string>list`1 GetUnion (List`1 sets, Boolean isCorrect)
+</string>
+            <string>int32 getCardinality (List`1 set, Boolean isCorrect)
+</string>
+          </Path>
+          <First>Набор множеств</First>
+          <Last>Мощность множества</Last>
+        </ExerciseTemplate>
+      </key>
+      <value>
+        <int>1</int>
+      </value>
+    </item>
+    <item>
+      <key>
+        <ExerciseTemplate>
+          <Type>Найти мощность множества</Type>
+          <ExParams />
+          <Path>
+            <string>int32 getCardinality (List`1 set, Boolean isCorrect)
+</string>
+          </Path>
+          <First>Множество</First>
+          <Last>Мощность множества</Last>
+        </ExerciseTemplate>
+      </key>
+      <value>
+        <int>1</int>
+      </value>
+    </item>
+    <item>
+      <key>
+        <ExerciseTemplate>
+          <Type>Найти пересечение множеств</Type>
+          <ExParams>
+            <anyType xsi:type="xsd:int">3</anyType>
+          </ExParams>
+          <Path>
+            <string>list`1 GetIntersection (List`1 sets, Boolean isCorrect)
+</string>
+          </Path>
+          <First>Набор множеств</First>
+          <Last>Пересечение</Last>
+        </ExerciseTemplate>
+      </key>
+      <value>
+        <int>1</int>
+      </value>
+    </item>
+    <item>
+      <key>
+        <ExerciseTemplate>
+          <Type>Найти пересечение множеств</Type>
+          <ExParams>
+            <anyType xsi:type="xsd:int">2</anyType>
+          </ExParams>
+          <Path>
+            <string>list`1 GetIntersection (List`1 sets, Boolean isCorrect)
+</string>
+          </Path>
+          <First>Набор множеств</First>
+          <Last>Пересечение</Last>
+        </ExerciseTemplate>
+      </key>
+      <value>
+        <int>1</int>
+      </value>
+    </item>
+  </ExercisesT>
+  <Ontology>Множества</Ontology>
+</TestTemplate>

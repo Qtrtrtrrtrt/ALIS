@@ -1,0 +1,278 @@
+<?xml version="1.0"?>
+<ArrayOfVariant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Variant>
+    <Exercises>
+      <Exercise>
+        <Type>Найти мощность объединения</Type>
+        <Text>Найти мощность объединения {1; 2; 3; 7; 8; 12; 14; 18; 20},  {3; 4; 5; 10; 11; 12; 16; 19}.
+</Text>
+        <Answers>
+          <string>15</string>
+          <string>14</string>
+          <string>16</string>
+          <string>20</string>
+        </Answers>
+        <RightAnswer>15</RightAnswer>
+      </Exercise>
+      <Exercise>
+        <Type>Найти мощность множества</Type>
+        <Text>Найти мощность множества {0; 1; 4; 9; 11; 12; 14; 15; 16; 19}.
+</Text>
+        <Answers>
+          <string>10</string>
+          <string>11</string>
+          <string>19</string>
+          <string>9</string>
+        </Answers>
+        <RightAnswer>10</RightAnswer>
+      </Exercise>
+      <Exercise>
+        <Type>Найти пересечение множеств</Type>
+        <Text>Найти пересечение множеств {3; 5; 6; 8; 14; 15; 20},  {0; 2; 6; 11; 13; 16; 17; 19; 20},  {4; 7; 8; 17; 18}.
+</Text>
+        <Answers>
+          <string>{}</string>
+          <string>{17}</string>
+          <string>{4}</string>
+          <string>{16}</string>
+        </Answers>
+        <RightAnswer>{}</RightAnswer>
+      </Exercise>
+      <Exercise>
+        <Type>Найти пересечение множеств</Type>
+        <Text>Найти пересечение множеств {6; 7; 8; 15; 19; 20},  {0; 2; 9; 10; 12; 13; 15}.
+</Text>
+        <Answers>
+          <string>{15}</string>
+          <string>{0; 2; 9; 10; 12; 13; 15}</string>
+          <string>{0; 6; 7; 15; 19; 20}</string>
+          <string>{6; 7; 8; 15; 19; 20}</string>
+        </Answers>
+        <RightAnswer>{15}</RightAnswer>
+      </Exercise>
+    </Exercises>
+    <Number>1</Number>
+    <TestName>example_closed</TestName>
+    <WithOpenAnswer>false</WithOpenAnswer>
+  </Variant>
+  <Variant>
+    <Exercises>
+      <Exercise>
+        <Type>Найти мощность объединения</Type>
+        <Text>Найти мощность объединения {15; 17},  {5; 8; 9; 10; 15; 18}.
+</Text>
+        <Answers>
+          <string>7</string>
+          <string>8</string>
+          <string>18</string>
+          <string>6</string>
+        </Answers>
+        <RightAnswer>7</RightAnswer>
+      </Exercise>
+      <Exercise>
+        <Type>Найти мощность множества</Type>
+        <Text>Найти мощность множества {0; 1; 3; 5; 6; 7; 8; 11; 13; 17}.
+</Text>
+        <Answers>
+          <string>10</string>
+          <string>11</string>
+          <string>17</string>
+          <string>9</string>
+        </Answers>
+        <RightAnswer>10</RightAnswer>
+      </Exercise>
+      <Exercise>
+        <Type>Найти пересечение множеств</Type>
+        <Text>Найти пересечение множеств {0; 10},  {2; 11; 16; 20},  {3; 6; 9; 11; 12; 14; 16; 19}.
+</Text>
+        <Answers>
+          <string>{}</string>
+          <string>{11}</string>
+          <string>{0; 2; 3; 6; 9; 10; 11; 12; 14; 16; 19; 20}</string>
+          <string>{11; 14}</string>
+        </Answers>
+        <RightAnswer>{}</RightAnswer>
+      </Exercise>
+      <Exercise>
+        <Type>Найти пересечение множеств</Type>
+        <Text>Найти пересечение множеств {1; 2; 4; 6; 8; 13; 14; 19; 20},  {2; 5; 7; 8; 9; 10; 12; 19; 20}.
+</Text>
+        <Answers>
+          <string>{2; 8; 19; 20}</string>
+          <string>{2; 5; 7; 8; 9; 10; 12; 19; 20}</string>
+          <string>{1; 2; 4; 5; 8; 13; 14; 19; 20}</string>
+          <string>{1; 2; 4; 6; 8; 13; 14; 19; 20}</string>
+        </Answers>
+        <RightAnswer>{2; 8; 19; 20}</RightAnswer>
+      </Exercise>
+    </Exercises>
+    <Number>2</Number>
+    <TestName>example_closed</TestName>
+    <WithOpenAnswer>false</WithOpenAnswer>
+  </Variant>
+  <Variant>
+    <Exercises>
+      <Exercise>
+        <Type>Найти мощность объединения</Type>
+        <Text>Найти мощность объединения {4; 5; 6; 7; 10; 17; 19},  {1; 2; 3; 4; 5; 9; 14}.
+</Text>
+        <Answers>
+          <string>12</string>
+          <string>13</string>
+          <string>19</string>
+          <string>11</string>
+        </Answers>
+        <RightAnswer>12</RightAnswer>
+      </Exercise>
+      <Exercise>
+        <Type>Найти мощность множества</Type>
+        <Text>Найти мощность множества {1; 3; 7; 8; 10; 11; 16; 17; 19; 20}.
+</Text>
+        <Answers>
+          <string>10</string>
+          <string>11</string>
+          <string>20</string>
+          <string>9</string>
+        </Answers>
+        <RightAnswer>10</RightAnswer>
+      </Exercise>
+      <Exercise>
+        <Type>Найти пересечение множеств</Type>
+        <Text>Найти пересечение множеств {6; 7; 11; 14; 18; 19; 20},  {0; 3; 5; 6; 10; 13; 14; 16; 20},  {0; 1; 3; 5; 17; 18}.
+</Text>
+        <Answers>
+          <string>{}</string>
+          <string>{0; 3}</string>
+          <string>{0; 1; 3; 5; 6; 7; 10; 11; 13; 14; 16; 17; 18; 19; 20}</string>
+          <string>{0; 5; 17}</string>
+        </Answers>
+        <RightAnswer>{}</RightAnswer>
+      </Exercise>
+      <Exercise>
+        <Type>Найти пересечение множеств</Type>
+        <Text>Найти пересечение множеств {5; 7; 14; 16; 20},  {3; 7; 10; 12; 18}.
+</Text>
+        <Answers>
+          <string>{7}</string>
+          <string>{3; 7; 10; 12; 18}</string>
+          <string>{3; 5; 7; 16; 20}</string>
+          <string>{5; 7; 14; 16; 20}</string>
+        </Answers>
+        <RightAnswer>{7}</RightAnswer>
+      </Exercise>
+    </Exercises>
+    <Number>3</Number>
+    <TestName>example_closed</TestName>
+    <WithOpenAnswer>false</WithOpenAnswer>
+  </Variant>
+  <Variant>
+    <Exercises>
+      <Exercise>
+        <Type>Найти мощность объединения</Type>
+        <Text>Найти мощность объединения {2; 3; 4; 9; 10; 12; 15; 16; 20},  {6; 10}.
+</Text>
+        <Answers>
+          <string>10</string>
+          <string>11</string>
+          <string>20</string>
+          <string>9</string>
+        </Answers>
+        <RightAnswer>10</RightAnswer>
+      </Exercise>
+      <Exercise>
+        <Type>Найти мощность множества</Type>
+        <Text>Найти мощность множества {0; 3; 6; 7; 9; 12; 13; 17; 19; 20}.
+</Text>
+        <Answers>
+          <string>10</string>
+          <string>11</string>
+          <string>20</string>
+          <string>9</string>
+        </Answers>
+        <RightAnswer>10</RightAnswer>
+      </Exercise>
+      <Exercise>
+        <Type>Найти пересечение множеств</Type>
+        <Text>Найти пересечение множеств {1; 2; 3; 7; 9; 11; 12; 16; 18},  {2; 3; 7; 9; 20},  {1; 3; 4; 6; 8; 9; 11; 12; 13}.
+</Text>
+        <Answers>
+          <string>{3; 9}</string>
+          <string>{3}</string>
+          <string>{1; 2; 3; 4; 6; 7; 8; 9; 11; 12; 13; 16; 18; 20}</string>
+          <string>{3; 11; 12}</string>
+        </Answers>
+        <RightAnswer>{3; 9}</RightAnswer>
+      </Exercise>
+      <Exercise>
+        <Type>Найти пересечение множеств</Type>
+        <Text>Найти пересечение множеств {2; 4; 5; 8; 9; 13; 14; 20},  {10; 17}.
+</Text>
+        <Answers>
+          <string>{}</string>
+          <string>{10; 17}</string>
+          <string>{2; 4; 5; 9; 10; 13; 14; 20}</string>
+          <string>{2; 4; 5; 8; 9; 13; 14; 20}</string>
+        </Answers>
+        <RightAnswer>{}</RightAnswer>
+      </Exercise>
+    </Exercises>
+    <Number>4</Number>
+    <TestName>example_closed</TestName>
+    <WithOpenAnswer>false</WithOpenAnswer>
+  </Variant>
+  <Variant>
+    <Exercises>
+      <Exercise>
+        <Type>Найти мощность объединения</Type>
+        <Text>Найти мощность объединения {1; 7; 9},  {8; 11; 16; 19}.
+</Text>
+        <Answers>
+          <string>7</string>
+          <string>8</string>
+          <string>19</string>
+          <string>6</string>
+        </Answers>
+        <RightAnswer>7</RightAnswer>
+      </Exercise>
+      <Exercise>
+        <Type>Найти мощность множества</Type>
+        <Text>Найти мощность множества {0; 1; 7; 9; 10; 11; 14; 15; 18; 20}.
+</Text>
+        <Answers>
+          <string>10</string>
+          <string>20</string>
+          <string>11</string>
+          <string>9</string>
+        </Answers>
+        <RightAnswer>10</RightAnswer>
+      </Exercise>
+      <Exercise>
+        <Type>Найти пересечение множеств</Type>
+        <Text>Найти пересечение множеств {1; 2; 3; 6; 7; 9; 10; 17; 18},  {0; 2; 16},  {0; 2; 13; 15; 18; 20}.
+</Text>
+        <Answers>
+          <string>{2}</string>
+          <string>{0; 2; 16}</string>
+          <string>{0; 2; 18}</string>
+          <string>{0; 2; 13; 18}</string>
+        </Answers>
+        <RightAnswer>{2}</RightAnswer>
+      </Exercise>
+      <Exercise>
+        <Type>Найти пересечение множеств</Type>
+        <Text>Найти пересечение множеств {0; 4; 8; 10; 12; 18; 20},  {0; 2; 3; 8; 13; 19}.
+</Text>
+        <Answers>
+          <string>{0; 8}</string>
+          <string>{0; 2; 3; 8; 12; 13; 19}</string>
+          <string>{3; 8}</string>
+          <string>{0; 2; 3; 4; 8; 10; 12; 13; 18; 19; 20}</string>
+        </Answers>
+        <RightAnswer>{0; 8}</RightAnswer>
+      </Exercise>
+    </Exercises>
+    <Number>5</Number>
+    <TestName>example_closed</TestName>
+    <WithOpenAnswer>false</WithOpenAnswer>
+  </Variant>
+</ArrayOfVariant>
